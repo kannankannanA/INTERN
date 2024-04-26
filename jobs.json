@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Frontend Developer",
+        "company": "ABC Tech",
+        "image": "frontend.jpg"
+    },
+    {
+        "title": "Backend Developer",
+        "company": "XYZ Solutions",
+        "image": "backend.jpg"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Data Insights Inc.",
+        "image": "data_science.jpg"
+    }
+
+]
